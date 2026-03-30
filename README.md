@@ -83,15 +83,6 @@ cd rock-paper-scissors-game
 
 ---
 
-## 🚀 Future Enhancements
-
-- Add a Reset Button
-- Add sound effects 🎵
-- Show computer choice visually
-- Improve mobile responsiveness
-
----
-
 ## 👨‍💻 Author
 
 **Ashutosh Rawat**

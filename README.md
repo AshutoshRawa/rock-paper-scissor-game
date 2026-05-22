@@ -17,7 +17,7 @@ The player competes against the computer, and the game updates the result and sc
 
 ## ✨ Features
 
-- ✅ User vs Computer Gameplay  
+- ✅ User vs Computer Gameplay
 - ✅ Random Computer Choice Generation  
 - ✅ Live Score Tracking  
 - ✅ Win / Lose / Draw Result Display  
